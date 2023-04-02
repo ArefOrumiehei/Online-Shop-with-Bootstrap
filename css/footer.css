@@ -1,0 +1,37 @@
+#twitter :hover {
+    color: #00acee;
+    transition: 0.2s;
+}
+
+#facebook :hover {
+    color: #3b5998;
+    transition: 0.2s;
+}
+
+#instagram :hover {
+    color: #d62976;
+    transition: 0.2s;
+}
+
+#linkedin :hover {
+    color: #0A66C2;
+    transition: 0.2s;
+}
+
+#telegram :hover {
+    color:  #229ED9;
+    transition: 0.2s;
+}
+
+#whatsapp :hover {
+    color: #25d366;
+    transition: 0.2s;
+}
+
+#footer-link {
+    color: darkgray;
+}
+
+#footer-link:hover {
+    color: snow;
+}

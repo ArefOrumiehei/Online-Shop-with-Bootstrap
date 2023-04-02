@@ -1,0 +1,12 @@
+* {
+    font-family: cursive;
+}
+
+.product-image{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:15px;
+    border:2px solid #f0f0f0
+}
+

@@ -1,0 +1,11 @@
+* {
+    font-family: cursive;
+}
+
+.content{
+    border-top:2px solid #ffc107;
+    background-color:#fff;
+    margin:auto;
+    padding:40px;
+    box-shadow:0px 2px 10px rgba(0,0,0,.075)
+}

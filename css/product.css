@@ -1,0 +1,29 @@
+* {
+    font-family: cursive;
+}
+
+#product-card:hover {
+    box-shadow: 0px 2px 10px 3px darkgray;
+    transition: 0.5s;
+}
+
+.breadcrumb a {
+    color: #ffc107;
+}
+
+.breadcrumb a:hover {
+    color: #212529;
+    transition: 0.2s;
+}
+
+#myTab .nav-link {
+    color: #ffc107;
+}
+
+#myTab .active {
+    color: #212529;
+}
+
+#related-price {
+    color: #ffc107;
+}
